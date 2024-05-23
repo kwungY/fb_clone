@@ -1,11 +1,11 @@
-I tottaly forgot about typescript requierment hope you will accept it regardless
+I totally forgot about the typescript requirement hope you will accept it regardless
 
 To start 
 
 -- git clone 
 -- npm install
 
-change mongo url to yours for testing
+Change Mongo url to yours for testing
 -- npm start
 
 To test registration -> http://127.0.0.1:5000/user/registration POST
